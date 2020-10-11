@@ -1,13 +1,13 @@
 ### Using:
 
 [![IntelliJ IDEA](https://raw.githubusercontent.com/JXCoding/JXCoding/main/img/idea.png)](https://www.jetbrains.com/idea/)
-[![Git](https://raw.githubusercontent.com/JXCoding/JXCoding/master/img/git.png)](https://git-scm.com/)
-[![GitHub](https://raw.githubusercontent.com/JXCoding/JXCoding/master/img/github.png)](https://github.com/)
-[![Minecraft](https://raw.githubusercontent.com/JXCoding/JXCoding/master/img/grass.png)](https://minecraft.net/)
-[![MySQL](https://raw.githubusercontent.com/JXCoding/JXCoding/master/img/mysql.png)](https://www.mysql.com/)
-[![VisualStudio Code](https://raw.githubusercontent.com/JXCoding/JXCoding/master/img/visual-studio-code.png)](https://code.visualstudio.com/)
-[![Bukkit](https://raw.githubusercontent.com/JXCoding/JXCoding/master/img/bukkit.png)](https://getbukkit.org/)
-[![SpigotMC](https://raw.githubusercontent.com/JXCoding/JXCoding/master/img/spigot.png)](https://spigotmc.org/)
+[![Git](https://raw.githubusercontent.com/JXCoding/JXCoding/main/img/git.png)](https://git-scm.com/)
+[![GitHub](https://raw.githubusercontent.com/JXCoding/JXCoding/main/img/github.png)](https://github.com/)
+[![Minecraft](https://raw.githubusercontent.com/JXCoding/JXCoding/main/img/grass.png)](https://minecraft.net/)
+[![MySQL](https://raw.githubusercontent.com/JXCoding/JXCoding/main/img/mysql.png)](https://www.mysql.com/)
+[![VisualStudio Code](https://raw.githubusercontent.com/JXCoding/JXCoding/main/img/visual-studio-code.png)](https://code.visualstudio.com/)
+[![Bukkit](https://raw.githubusercontent.com/JXCoding/JXCoding/main/img/bukkit.png)](https://getbukkit.org/)
+[![SpigotMC](https://raw.githubusercontent.com/JXCoding/JXCoding/main/img/spigot.png)](https://spigotmc.org/)
 
 ---
 
