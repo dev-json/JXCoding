@@ -13,8 +13,13 @@
 
 ### Github Stats:
 
-[![Stats](https://github-readme-stats.codestackr.vercel.app/api?username=JXCoding&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true)](https://github.com/booky10/)
+[![Stats](https://github-readme-stats.codestackr.vercel.app/api?username=JXCoding&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true)](https://github.com/JXCoding/)
 
 ### Languages:
 
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JXCoding&hide_title=true)](https://github.com/JXCoding/)
+
+
+### Credits
+This Design was created with help of an youtube tutorial.
+and also from booky10 inspired :D
