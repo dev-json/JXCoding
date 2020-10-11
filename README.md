@@ -1,6 +1,6 @@
 ### Using:
 
-[![IntelliJ IDEA](https://raw.githubusercontent.com/JXCoding/JXCoding/master/img/idea.png)](https://www.jetbrains.com/idea/)
+[![IntelliJ IDEA](https://raw.githubusercontent.com/JXCoding/JXCoding/main/img/idea.png)](https://www.jetbrains.com/idea/)
 [![Git](https://raw.githubusercontent.com/JXCoding/JXCoding/master/img/git.png)](https://git-scm.com/)
 [![GitHub](https://raw.githubusercontent.com/JXCoding/JXCoding/master/img/github.png)](https://github.com/)
 [![Minecraft](https://raw.githubusercontent.com/JXCoding/JXCoding/master/img/grass.png)](https://minecraft.net/)
@@ -17,4 +17,4 @@
 
 ### Languages:
 
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JXCoding&hide_title=true)](https://github.com/booky10/)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JXCoding&hide_title=true)](https://github.com/JXCoding/)
