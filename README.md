@@ -13,7 +13,7 @@
 
 ### Github Stats:
 
-[![Stats](https://github-readme-stats.codestackr.vercel.app/api?username=JXCoding&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true)](https://github.com/JXCoding/)
+[![Stats](https://github-readme-stats.codestackr.vercel.app/api?username=JXCoding&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&theme=dark)](https://github.com/JXCoding/)
 
 ### Languages:
 
