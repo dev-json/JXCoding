@@ -26,7 +26,7 @@
 I am a Backend Developer from :de: 
 - :telescope: I’m working as a backend developer using java or rust
 - :zap: In my free time, i play video games, learning new languages or improve my knowledge
-- :mailbox: Reach me out: <a href="mailto::jason.mey11@gmail.com"> <img src="https://img.shields.io/badge/Mail-1bbcfa?style=flat&logo=gmail&logoColor=ffffff"> </a>
+- :mailbox: Reach out to me: <a href="mailto::jason.mey11@gmail.com"> <img src="https://img.shields.io/badge/Mail-1bbcfa?style=flat&logo=gmail&logoColor=ffffff"> </a>
 
 ---
 
