@@ -36,18 +36,18 @@ I am a Backend Developer from :de:
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-plain.svg" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40"/>
   <!--<img src="" width="40" height="40"/>
